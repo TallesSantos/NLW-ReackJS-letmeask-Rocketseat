@@ -10,6 +10,10 @@
       justify-content: space-between;
       align-items: center;
 
+      div {
+        display: flex;
+      }
+
       > img {
         max-height: 45px;
       }
@@ -48,7 +52,7 @@
         border: 0;
         padding: 16px;
         border-radius: 8px;
-        background: #fefefe;
+        background: #e7e4e4;
         box-shadow: 0 2px 12px rgba(0, 0, 0, 0.04);
         resize: vertical;
         min-height: 130px;
@@ -94,6 +98,9 @@
           }
         }
       }
+    }
+    .question-list {
+      margin-top: 32px;
     }
   }
 }
