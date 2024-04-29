@@ -9,7 +9,7 @@
 
 
 
-<a href="https://letmeask-b6536.web.app/"> clique aqui para visualizar o porjeto </a>
+<a href="https://letmeask-b6536.web.app/"> clique aqui para visualizar o projeto </a>
 
 <h2>Tecnologias utilizadas</h2>
 
